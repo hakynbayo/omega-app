@@ -1,4 +1,3 @@
-
 export default {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
@@ -15,8 +14,7 @@ export default {
       colors: {
         primary: {
           
-        },
-        
+        },  
         
       },
       keyframes: {
