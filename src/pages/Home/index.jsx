@@ -1,10 +1,11 @@
 import Navbar from "../../components/navbar/Navbar";
+import Card from "../../components/card";
 
 const Home = () => {
   return (
     <div>
       <Navbar />
-      <h1>Home</h1>
+      <Card/>
     </div>
   );
 };

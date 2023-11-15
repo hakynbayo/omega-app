@@ -12,10 +12,8 @@ export default {
       backgroundImage: {
       },
       colors: {
-        primary: {
-          
-        },  
-        
+          "card-blue":'#234C8A',
+          "info-blue":'#0B88BF',
       },
       keyframes: {
         flicker: {
